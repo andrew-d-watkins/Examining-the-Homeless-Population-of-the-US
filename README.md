@@ -1,1 +1,5 @@
 # Examining the Homeless Population of the US
+
+In this study, I will determine if the United States is able to care for the homeless population. I will evaluate if the facilities, or Continuum of Care (CoC), a program under the Department of Housing and Urban Development which aims to end homelessness, have enough beds to manage their homeless community. These facilities include regional or local planning bodies that coordinate housing and service funding for homeless families and individuals. This will also allow me to inspect how these facilities have changed over the years, thus enabling me to evaluate their performances. 
+
+I will be using a variety of techniques to gather the necessary information from the Department of Housing and Urban Development (HUD) and prepare it for the study. With the cleaned and prepared data, I will perform some exploratory data analysis (EDA) to better understand the data along with its trends using some visualization methods. I will also be using some machine learning techniques to predict how they will perform in the future.
